@@ -4,7 +4,8 @@
 
 The following repository contains data and code used for analyses in:
 
-> Tran, N.-H., Kucharský, Š., Waring, T., Atmaca, S. & Beheim, B. A. (submitted). Limited scope for group coordination for stylistic variations in *kolam* art.
+> Tran, N.-H., Kucharský, Š., Waring, T. M., Atmaca, S. & Beheim, B. A. (2021). Limited scope for group coordination for stylistic variations in *kolam* art. Frontiers in
+Psychology, 12, 742577. DOI: https://doi.org/10.3389/fpsyg.2021.742577
 
 ## Getting Started
 
